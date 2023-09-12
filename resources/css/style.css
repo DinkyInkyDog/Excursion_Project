@@ -22,3 +22,7 @@ p {
     font-size: 21px;
     color: grey;
 }
+p .copyright {
+    text-align: right;
+    color: grey;
+}
